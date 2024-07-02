@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-jajoo" alt="varun-jajoo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/varunencodes" target="blank"><img src="https://img.shields.io/twitter/follow/varunencodes?logo=twitter&style=for-the-badge" alt="varunencodes" /></a> </p>
+
 
 - 🔭 I’m currently working on **Data Visualization using d3js**
 
@@ -35,7 +35,7 @@
 <p><a href="https://www.buymeacoffee.com/varunjajooj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varunjajooj" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-jajoo&show_icons=true&locale=en&layout=compact" alt="varun-jajoo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-jajoo&show_icons=true&locale=en&layout=compact" alt="varun-jajoo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-jajoo&show_icons=true&locale=en" alt="varun-jajoo" /></p>
 
