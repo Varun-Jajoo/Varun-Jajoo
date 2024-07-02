@@ -39,7 +39,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-jajoo&" alt="varun-jajoo" />
     </p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-jajoo&show_icons=true&locale=en" alt="varun-jajoo" />
-  
+  <br>
   <p>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-jajoo&show_icons=true&locale=en&layout=compact" alt="varun-jajoo" />
     
