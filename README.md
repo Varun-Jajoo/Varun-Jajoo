@@ -40,7 +40,7 @@
     </p>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-jajoo&show_icons=true&locale=en" alt="varun-jajoo" />
-   </p><br>
+   </p>
   <p>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-jajoo&show_icons=true&locale=en&layout=compact" alt="varun-jajoo" />
     
