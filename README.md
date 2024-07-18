@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **AI related projects**
 
-- 💬 Ask me about **next,vue,gasp,tensorflowjs**
+- 💬 Ask me about **next,vue,gsap,tensorflowjs**
 
 - 📫 How to reach me **varun.jajoo18@gmail.com**
 
